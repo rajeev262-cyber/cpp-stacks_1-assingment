@@ -1,0 +1,3 @@
+option (3) and (4)  are not correct 
+option(3) -  stack is fifo data structure 
+option (4) - adding an element to a filled stack leads to underflow 
